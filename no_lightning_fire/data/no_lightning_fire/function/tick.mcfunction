@@ -1,0 +1,2 @@
+execute at @e[type=minecraft:lightning_bolt] run fill ~-3 ~-3 ~-3 ~3 ~3 ~3 minecraft:air replace minecraft:fire[age=0]
+execute at @e[type=minecraft:lightning_bolt] run fill ~-3 ~-3 ~-3 ~3 ~3 ~3 minecraft:air replace minecraft:fire[age=1]
